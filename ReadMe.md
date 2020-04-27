@@ -24,3 +24,5 @@ well as learning the intricacies of the algorithms used. The result showed an in
 that can be extremely beneficial in using the same methods for a comparative study of similar
 datasets. The congressional voting patterns can be easily compared by these methods and
 changes in policy and agenda of the political parties can be identified.
+
+Software used: Weka
